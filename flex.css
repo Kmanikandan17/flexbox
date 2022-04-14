@@ -1,0 +1,288 @@
+.parent-1{
+    display: flex;
+    justify-content: space-between;
+}
+.child-1{
+    padding:1rem;
+    background-color: red;
+    width:150px;
+    height:50px;
+    margin:0.2cm;
+}
+.child-2{
+    padding:1rem;
+    background-color:red;
+    width: 150px;
+    height:50px;
+    margin: 0.2cm;
+}
+.parent-2{
+    display:flex;
+    justify-content:center;
+}
+.child-3{
+    padding: 1rem;
+    background-color:red;
+    width:200px;
+    height: 50;
+
+}
+.parent-3{
+    display: flex;
+    justify-content: center;
+}
+.child-4{
+    padding: 1rem;
+    background-color: red;
+    width: 100px;
+    height: 1px;
+    margin: 0.2cm;
+}
+.head1{
+    background-color: lightskyblue;
+    margin: 1%;
+    padding: 2%;
+}
+.parent-4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child-5{
+    background-color: red;
+    flex:0.3;
+    align-self:center;
+    height:20px;
+}
+.child-6{
+    background-color: red;
+    flex:0.3;
+    height: 60px;
+}
+.child-7{
+    background-color:red;
+    flex:0.3;
+    height:20px;
+    align-self: center;
+}
+.parent-5{
+    display: flex;
+    justify-content: space-between;
+}
+.child-8{
+    background-color: red;
+    flex:0.3;
+    height: 20px;
+    align-self: center;
+}
+.child-9{
+    background-color: red;
+    flex:0.65;
+    height: 100px;
+    margin: 0.2cm;
+}
+.parent-6{
+    display: flex;
+    justify-content: space-around;
+}
+.child-10{
+    background-color: red;
+    flex:0.3;
+    height: 20px;
+    margin: 0.2cm;
+}
+.parent-7{
+    display: flex;
+    justify-content: space-evenly;
+}
+.child-11{
+    flex:0.30;
+    height:50px;
+}
+.child-12{
+    background-color: red;
+    flex:0.30;
+    height:60px;
+}
+.child-13{
+    background-color: red;
+    flex: 0.30;
+    height:32px;
+    align-self: center;
+}
+.head2{
+    display: flex;
+    padding: 1%;
+}
+.parent-8{
+    display: flex;
+    justify-content: flex-start;
+    flex:0.8;
+    gap:10px;
+}
+.child-14{
+    background-color: red;
+    flex:0.3;
+    height: 50px;
+    border: 2px solid black;
+}
+.child-15{
+    background-color: red;
+    flex: 0.3;
+    height: 50px;
+    border:2px solid black;
+}
+.child-16{
+    background-color: red;
+    flex:0.3;
+    height:50px;
+    border:2px solid black;
+}
+.parent-9{
+    display: flex;
+    justify-content: flex-end;
+    flex: 0.2;
+    gap:10px;
+}
+.child-17{
+    background-color: red;
+    flex:0.6;
+    height:20px;
+    align-self: center;
+}
+.head3{
+    background-color:lightskyblue;
+    margin-top: -1.4%;
+    border:2px solid black;
+    padding: 2%;
+}
+.parent-10{
+    display: flex;
+    justify-content: space-between;
+}
+.child-18{
+     background-color: red;
+     flex:0.3;
+     height:60px;
+}
+.child-19{
+    background-color: red;
+    flex: 0.3;
+    height: 60px;
+}
+.parent-11{
+    display: flex;
+}
+.child-20{
+    background-color: red;
+    flex:0.1;
+    height:20px;
+    margin:0.2cm ;
+}
+.parent-12{
+    display: flex;
+    justify-content: space-between;
+}
+.child-21{
+    background-color: red;
+    flex:0.835;
+    height:60px;
+}
+.child-22{
+    background-color: red;
+    flex:0.15;
+    height:60px;
+}
+.parent-13{
+     display: flex;
+}
+.child-23{
+    background-color: red;
+    flex:0.385;
+    height:20px;
+    margin: 0.2cm;
+}
+.parent-14{
+    display: flex;
+}
+.child-24{
+    background-color: red;
+    flex:1;
+    height:60px;
+    margin: 0.2cm;
+}
+.parent-15{
+    display:flex;
+}
+.child-25{
+    background-color:red;
+    flex:0.1;
+    height:20px;
+    margin: 0.2cm;
+}
+.parent-16{
+    display: flex;
+}
+.child-26{
+    background-color:red;
+    flex:0.835;
+    height:60px;
+    margin: 0.2cm;
+}
+.parent-17{
+    display: flex;
+    justify-content: flex-end;
+}
+.child-27{
+    background-color: red;
+    flex:0.1;
+    height:20px;
+    margin: 0.2cm;
+}
+.parent-18{
+    display: flex;
+    justify-content: flex-end;
+}
+.child-28{
+    background-color: red;
+    flex: 0.835;
+    height: 60px;
+    margin: 0.2cm;
+}
+.parent-19{
+    display:flex;
+}
+.child-29{
+    background-color: red;
+    flex: 0.1;
+    height: 20px;
+    margin: 0.2cm;
+}
+.parent-20{
+    display: flex;
+}
+.child-30{
+    background-color: red;
+    flex:0.835;
+    height: 60px;
+    margin: 0.2cm;
+}
+.head{
+    border: 2px solid black;
+}
+.parent-21{
+    display: flex;
+    justify-content: space-between;
+}
+.child-31{
+    background-color:red ;
+    flex:0.15;
+    height: 10px;
+    margin: 0.2cm;
+}
+.child-32{
+    background-color: red;
+    flex: 0.5;
+    height: 10px;
+    margin: 0.2cm;
+}
